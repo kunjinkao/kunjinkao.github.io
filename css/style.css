@@ -157,5 +157,7 @@ figure.main  figcaption {
 
 figure.main img {
   margin: 0 auto;
+  height: auto;
+  width: 90%;
 }
 
